@@ -6,5 +6,6 @@ public class Customer {
 	@Test
 	public void addCustomer() {
 		System.out.println("Customer added successfully");
+		System.out.println("Happy Customer");
 	}
 }
